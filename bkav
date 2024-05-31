@@ -1,0 +1,7 @@
+local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/pzdoxtyr098/ffff/main/mam.lua"))()
+
+local Window = redzlib:MakeWindow({
+  Title = "MBM Hub",
+  SubTitle = "by player.81",
+  SaveFolder = "MBM_HUB.lua"
+})
